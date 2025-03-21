@@ -73,5 +73,7 @@ The healthcare dataset includes features like Date, ID, Gender, Age, Race, Momen
 
    - **Admin Flag Distribution:** **50.04%** of visitors are fully registered patients, while **49.96%** are either visitors or individuals not registered for treatment. This indicates a significant portion of the hospital's traffic consists of non-registered individuals.
 
+![](https://github.com/greeshmaN0810/Health-Care-Data-Analysis-using-Power-BI/blob/main/Dashboard/Healthcare_Dashboard_1.JPG)
+![](https://github.com/greeshmaN0810/Health-Care-Data-Analysis-using-Power-BI/blob/main/Dashboard/Healthcare_Dashboard_2.JPG)
 
 <br />
